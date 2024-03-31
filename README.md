@@ -1,4 +1,4 @@
-![](../Assets/Profile.gif)
+![](./Assets/Profile.gif)
 
 My graduate studies have encompassed a broad spectrum, ranging from compilers to artificial intelligence. As a current member of the LISP Lab at Dartmouth, I specialize in Learning, Intelligence, and Signal Processing.
 
